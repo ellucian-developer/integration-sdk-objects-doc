@@ -1,4 +1,4 @@
-# Ellucian Ethos Integration SDK Javadoc for the SDK Object Libraries
+# Ellucian Ethos Integration SDK Javadoc for the Java Object Libraries
 
 This repository contains the generated code for the Ethos Integration SDK (EISDK) Java object libraries Javadoc.  This code is not manually maintained, but rather is generated and pushed to this repository.  This repository contains Javadoc for both the EEDM and Banner BPAPI object libraries.
 
