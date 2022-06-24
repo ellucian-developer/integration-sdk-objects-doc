@@ -41,6 +41,7 @@ com.ellucian.generated.eedm.accounting_strings.v7_0
 com.ellucian.generated.eedm.accounts_payable_invoices.v11_0
 com.ellucian.generated.eedm.accounts_payable_invoices.v11_1_0
 com.ellucian.generated.eedm.accounts_payable_invoices.v11_2_0
+com.ellucian.generated.eedm.accounts_payable_invoices.v11_3_0
 com.ellucian.generated.eedm.accounts_payable_invoices.v8_0
 com.ellucian.generated.eedm.accounts_payable_sources.v8_0
 com.ellucian.generated.eedm.activity_attitudes.v1_0_0
@@ -49,6 +50,7 @@ com.ellucian.generated.eedm.activity_purposes.v1_0_0
 com.ellucian.generated.eedm.address_types.v6_0
 com.ellucian.generated.eedm.addresses.v11_0
 com.ellucian.generated.eedm.addresses.v11_1_0
+com.ellucian.generated.eedm.addresses.v11_2_0
 com.ellucian.generated.eedm.addresses.v6_0
 com.ellucian.generated.eedm.administrative_instructional_methods.v1_0_0
 com.ellucian.generated.eedm.administrative_periods.v1_0_0
@@ -277,8 +279,10 @@ com.ellucian.generated.eedm.designation_types.v6_0
 com.ellucian.generated.eedm.designations.v9_0
 com.ellucian.generated.eedm.dfe_admission_decisions.v1_0_0
 com.ellucian.generated.eedm.dfe_admission_decisions.v1_1_0
+com.ellucian.generated.eedm.dfe_admission_decisions.v1_2_0
 com.ellucian.generated.eedm.dfe_application_submission_process.v1_0_0
 com.ellucian.generated.eedm.dfe_application_submission_process.v1_1_0
+com.ellucian.generated.eedm.dfe_application_submission_process.v1_2_0
 com.ellucian.generated.eedm.donor_association_types.v7_0
 com.ellucian.generated.eedm.earning_types.v12_0
 com.ellucian.generated.eedm.educational_goals.v1_0_0
@@ -313,6 +317,7 @@ com.ellucian.generated.eedm.employment_vocations.v10_0
 com.ellucian.generated.eedm.enrollment_statuses.v6_0
 com.ellucian.generated.eedm.ethnicities.v6_0
 com.ellucian.generated.eedm.external_admissions_application_decision_statuses.v1_0_0
+com.ellucian.generated.eedm.external_admissions_application_decision_statuses.v1_1_0
 com.ellucian.generated.eedm.external_admissions_application_submission_process.v1_0_0
 com.ellucian.generated.eedm.external_contributions.v11_0
 com.ellucian.generated.eedm.external_contributions.v16_0_0
