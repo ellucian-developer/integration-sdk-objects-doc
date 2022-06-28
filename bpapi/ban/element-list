@@ -19,12 +19,10 @@ com.ellucian.generated.bpapi.ban.accommodation_statuses.v1_0_0
 com.ellucian.generated.bpapi.ban.account_code_maintenance.v1_0_0
 com.ellucian.generated.bpapi.ban.account_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.account_comment_type_codes.v1_0_0
-com.ellucian.generated.bpapi.ban.account_detail_charges_payments.v0_1_0
 com.ellucian.generated.bpapi.ban.account_detail_deposits.v1_0_0
 com.ellucian.generated.bpapi.ban.account_detail_memos.v1_0_0
 com.ellucian.generated.bpapi.ban.account_detail_query.v1_0_0
 com.ellucian.generated.bpapi.ban.account_detail_reviews.v1_0_0
-com.ellucian.generated.bpapi.ban.account_detail.v1_0_0
 com.ellucian.generated.bpapi.ban.account_hierarchy_query.v1_0_0
 com.ellucian.generated.bpapi.ban.account_hierarchy.v1_0_0
 com.ellucian.generated.bpapi.ban.account_index_code_maintenance.v1_0_0
@@ -103,8 +101,6 @@ com.ellucian.generated.bpapi.ban.approval_queue_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.approval_queue_maintenance.v1_0_0
 com.ellucian.generated.bpapi.ban.approvals_notification.v1_0_0
 com.ellucian.generated.bpapi.ban.approved_document_query.v1_0_0
-com.ellucian.generated.bpapi.ban.area_output_inquiry.v0_1_0
-com.ellucian.generated.bpapi.ban.area_usage_by_program_inquiry.v0_1_0
 com.ellucian.generated.bpapi.ban.associated_term_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.athlete_transfer_statuses.v1_0_0
 com.ellucian.generated.bpapi.ban.athletic_academic_eligibility_codes.v1_0_0
@@ -156,7 +152,6 @@ com.ellucian.generated.bpapi.ban.benefit_or_deduction_grouping_rule.v1_0_0
 com.ellucian.generated.bpapi.ban.benefit_or_deduction_mass_change_rule.v1_0_0
 com.ellucian.generated.bpapi.ban.benefit_payroll_frequency_rule.v1_0_0
 com.ellucian.generated.bpapi.ban.benefits_and_deductions_rules.v1_0_0
-com.ellucian.generated.bpapi.ban.biling_mass_data_entry_deposits.v1_0_0
 com.ellucian.generated.bpapi.ban.bill_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.billing_mass_data_entry_charges_payments.v1_0_0
 com.ellucian.generated.bpapi.ban.billing_mass_data_entry_memos.v1_0_0
@@ -179,7 +174,6 @@ com.ellucian.generated.bpapi.ban.business_rule_parameter_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.business_rule_process_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.calendar_type_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.california_strs_employee_assignment_codes.v1_0_0
-com.ellucian.generated.bpapi.ban.california_strs_mr_87_transaction_codes.v8_0_0
 com.ellucian.generated.bpapi.ban.campus_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.canadian_record_of_employment_other_monies_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.canadian_record_of_employment_reason_codes.v1_0_0
@@ -239,7 +233,6 @@ com.ellucian.generated.bpapi.ban.complementary_activities_submission_inquiry.v1_
 com.ellucian.generated.bpapi.ban.complementary_activities_submission_rules.v1_0_0
 com.ellucian.generated.bpapi.ban.compliance_default_option_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.compliance_print_codes.v1_0_0
-com.ellucian.generated.bpapi.ban.compliance_results_inquiry.v0_1_0
 com.ellucian.generated.bpapi.ban.compliance_type_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.contact_type_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.contract_and_agreement_types.v1_0_0
@@ -303,7 +296,6 @@ com.ellucian.generated.bpapi.ban.curriculum_rules_module_control.v1_0_0
 com.ellucian.generated.bpapi.ban.curriculum_rules_rule_based_concentrations.v1_0_0
 com.ellucian.generated.bpapi.ban.curriculum_statuses.v1_0_0
 com.ellucian.generated.bpapi.ban.customer_codes.v1_0_0
-com.ellucian.generated.bpapi.ban.customer_services.v1_0_0
 com.ellucian.generated.bpapi.ban.data_source_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.day_attribute_five_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.day_attribute_four_codes.v1_0_0
@@ -322,7 +314,6 @@ com.ellucian.generated.bpapi.ban.delinquency_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.department_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.departmental_honors_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.deposit_crosswalk.v1_0_0
-com.ellucian.generated.bpapi.ban.deposit_detail_control.v1_0_0
 com.ellucian.generated.bpapi.ban.deposit_type_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.desktop_tools_step_types.v1_0_0
 com.ellucian.generated.bpapi.ban.detail_category_codes.v1_0_0
@@ -415,19 +406,11 @@ com.ellucian.generated.bpapi.ban.enrollment_status.v1_0_0
 com.ellucian.generated.bpapi.ban.enrollment_verification_type_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.entity_category_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.entity_name_id_search.v1_0_0
-com.ellucian.generated.bpapi.ban.entreprise_access_control.v1_0_0
 com.ellucian.generated.bpapi.ban.equipment_tags.v1_0_0
 com.ellucian.generated.bpapi.ban.ethnic_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.etranscript_delivery_method_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.etranscript_order_statuses.v1_0_0
 com.ellucian.generated.bpapi.ban.etranscript_pesc_transcript_types.v1_0_0
-com.ellucian.generated.bpapi.ban.eu_hesa_course_delivery_details.v1_0_0
-com.ellucian.generated.bpapi.ban.eu_hesa_entry_qualification.v1_0_0
-com.ellucian.generated.bpapi.ban.eu_hesa_qualification_details.v1_0_0
-com.ellucian.generated.bpapi.ban.eu_hesa_session_year_details.v1_0_0
-com.ellucian.generated.bpapi.ban.eu_hesa_venue_details.v1_0_0
-com.ellucian.generated.bpapi.ban.eu_system_parameter_maintenance.v1_0_0
-com.ellucian.generated.bpapi.ban.eu_ucas_applicant_selection.v1_0_0
 com.ellucian.generated.bpapi.ban.evaluation_question_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.event_function_type_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.event_queue_codes.v1_0_0
@@ -438,7 +421,6 @@ com.ellucian.generated.bpapi.ban.exemption_authorization_category_code_level_aut
 com.ellucian.generated.bpapi.ban.exemption_authorization_detail_code_level_authorization.v1_0_0
 com.ellucian.generated.bpapi.ban.exemption_authorization_person_authorization.v1_0_0
 com.ellucian.generated.bpapi.ban.exemption_authorization.v1_0_0
-com.ellucian.generated.bpapi.ban.existing_group_inquiry.v0_1_0
 com.ellucian.generated.bpapi.ban.existing_programs.v1_0_0
 com.ellucian.generated.bpapi.ban.expense_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.external_api_information_codes.v1_0_0
@@ -471,7 +453,6 @@ com.ellucian.generated.bpapi.ban.finance_detail_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.finance_emergency_contact.v1_0_0
 com.ellucian.generated.bpapi.ban.finance_non_person_search.v1_0_0
 com.ellucian.generated.bpapi.ban.finance_person_search.v1_0_0
-com.ellucian.generated.bpapi.ban.finance_refund_review.v1_0_0
 com.ellucian.generated.bpapi.ban.financial_aid_fund_types.v1_0_0
 com.ellucian.generated.bpapi.ban.financial_aid_hold_type_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.financial_aid_record_maintenance.v1_0_0
@@ -548,7 +529,6 @@ com.ellucian.generated.bpapi.ban.goal_attribute_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.goal_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.gradable_component_definition_subcomponent.v1_0_0
 com.ellucian.generated.bpapi.ban.gradable_component_definition.v1_0_0
-com.ellucian.generated.bpapi.ban.grade_book_rule_definition.v0_1_0
 com.ellucian.generated.bpapi.ban.grade_change_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.grade_code_maintenance.v1_0_0
 com.ellucian.generated.bpapi.ban.grade_code_substitution.v1_0_0
@@ -575,8 +555,6 @@ com.ellucian.generated.bpapi.ban.grant_transaction_detail.v1_0_0
 com.ellucian.generated.bpapi.ban.grievance_participant_types.v1_0_0
 com.ellucian.generated.bpapi.ban.grievance_standard_result_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.grievance_types.v1_0_0
-com.ellucian.generated.bpapi.ban.group_output_inquiry.v0_1_0
-com.ellucian.generated.bpapi.ban.group_usage_by_area_inquiry.v0_1_0
 com.ellucian.generated.bpapi.ban.guardian_information.v1_0_0
 com.ellucian.generated.bpapi.ban.hazard_standard_precaution_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.hazard_type_codes.v1_0_0
@@ -760,7 +738,6 @@ com.ellucian.generated.bpapi.ban.program_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.program_definition_rules.v1_0_0
 com.ellucian.generated.bpapi.ban.program_hierarchy_query.v1_0_0
 com.ellucian.generated.bpapi.ban.program_hierarchy.v1_0_0
-com.ellucian.generated.bpapi.ban.program_output_inquiry.v0_1_0
 com.ellucian.generated.bpapi.ban.program_requirements.v1_0_0
 com.ellucian.generated.bpapi.ban.progress_evaluation_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.project_maintenance.v1_0_0
@@ -791,7 +768,6 @@ com.ellucian.generated.bpapi.ban.recruit_type_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.recruiter_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.recruiting_internal_status_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.referral_statuses.v1_0_0
-com.ellucian.generated.bpapi.ban.refund_review_students.v1_0_0
 com.ellucian.generated.bpapi.ban.registration_add_authorization_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.registration_courses.v1_0_0
 com.ellucian.generated.bpapi.ban.registration_error_messages.v1_0_0
@@ -933,8 +909,6 @@ com.ellucian.generated.bpapi.ban.student_adjustment_targets_waivers_substituitio
 com.ellucian.generated.bpapi.ban.student_adjustment_targets_waivers_substitutions_other_adjustments_tracking.v1_0_0
 com.ellucian.generated.bpapi.ban.student_adjustment_targets_waivers_substitutions_target_courses.v1_0_0
 com.ellucian.generated.bpapi.ban.student_adjustment_targets_waivers_substitutions_waivers.v1_0_0
-com.ellucian.generated.bpapi.ban.student_adjustments_query.v0_1_0
-com.ellucian.generated.bpapi.ban.student_application_distribution_single_payment.v1_0_0
 com.ellucian.generated.bpapi.ban.student_attribute_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.student_billing_mass_data_entry_charges_payments.v1_0_0
 com.ellucian.generated.bpapi.ban.student_billing_mass_data_entry_deposits.v1_0_0
@@ -946,7 +920,6 @@ com.ellucian.generated.bpapi.ban.student_centric_period_cycle_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.student_classification_rules.v1_0_0
 com.ellucian.generated.bpapi.ban.student_cohort.v1_0_0
 com.ellucian.generated.bpapi.ban.student_course_fee_assessment_query.v1_0_0
-com.ellucian.generated.bpapi.ban.student_course_maintenance_components.v0_1_0
 com.ellucian.generated.bpapi.ban.student_course_registration_audit.v1_0_0
 com.ellucian.generated.bpapi.ban.student_course_registration_curricula_duplicate.v1_0_0
 com.ellucian.generated.bpapi.ban.student_course_registration_curricula_field_of_study.v1_0_0
@@ -970,7 +943,6 @@ com.ellucian.generated.bpapi.ban.student_fee_assessment_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.student_installment_plan.v1_0_0
 com.ellucian.generated.bpapi.ban.student_note_category_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.student_note_interaction_type_codes.v1_0_0
-com.ellucian.generated.bpapi.ban.student_payment.v1_0_0
 com.ellucian.generated.bpapi.ban.student_registration_group.v1_0_0
 com.ellucian.generated.bpapi.ban.student_registration_permit_override.v1_0_0
 com.ellucian.generated.bpapi.ban.student_sport_attributes.v1_0_0
@@ -1016,8 +988,6 @@ com.ellucian.generated.bpapi.ban.term_control_part_of_term_and_web_registration_
 com.ellucian.generated.bpapi.ban.term_control_projected_registration.v1_0_0
 com.ellucian.generated.bpapi.ban.term_control_registration.v1_0_0
 com.ellucian.generated.bpapi.ban.term_control_structured_registration.v1_0_0
-com.ellucian.generated.bpapi.ban.term_course_maintenance_stored_gpa_by_term_calculation.v0_1_0
-com.ellucian.generated.bpapi.ban.term_course_maintenance_term_header_information.v0_1_0
 com.ellucian.generated.bpapi.ban.term_restriction_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.term_types.v1_0_0
 com.ellucian.generated.bpapi.ban.term_workload_rules_codes.v1_0_0
@@ -1026,7 +996,6 @@ com.ellucian.generated.bpapi.ban.test_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.test_form_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.test_instrument_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.test_purpose_codes.v1_0_0
-com.ellucian.generated.bpapi.ban.test_score_information.v0_1_0
 com.ellucian.generated.bpapi.ban.thank_you_letter_codes.v1_0_0
 com.ellucian.generated.bpapi.ban.third_party_access_audit_pin_history.v1_0_0
 com.ellucian.generated.bpapi.ban.third_party_access_audit_third_party_history.v1_0_0
